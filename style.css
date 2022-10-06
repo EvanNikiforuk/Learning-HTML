@@ -4,7 +4,7 @@ header {
 }
 
 body {
-    border: 1px solid white;
+    border: 1px solid rgb(0, 17, 255);
     background-image: url(https://wpbeaveraddons.com/wp-content/uploads/line-particles.jpg);
 }
 
@@ -37,7 +37,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    color: white;
+    color: greenyellow;
     text-align: center;
     background: black;
 }
