@@ -1,3 +1,46 @@
+header {
+    //border: 2px solid white;
+    padding: 15px;
+}
+
 body {
-    background-image: url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg)
+    background-image: url(https://cutewallpaper.org/27/black-and-red-galaxy-wallpaper/1896216165.jpg);
+}
+
+nav {
+
+}
+
+menu {
+    width: 25%;
+}
+
+main {
+    width: 50%;
+}
+
+section {
+
+}
+
+aside {
+    width: 25%;
+}
+
+article {
+
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background: black;
+}
+
+div {
+    border: 2px thick dotted white
 }
