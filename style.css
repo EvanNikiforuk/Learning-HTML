@@ -31,3 +31,17 @@ aside {
 article {
 
 }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: greenyellow;
+    text-align: center;
+    background: rgb(0, 17, 255);
+}
+
+div {
+    border: 2px thick dotted white
+}
