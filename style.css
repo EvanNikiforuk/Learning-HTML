@@ -37,12 +37,12 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    color: white;
+    color: greenyellow;
     text-align: center;
-    background: black;
-    border: 1px solid white;
+    background: blue;
+    border: 1px solid blue;
 }
 
 div {
-    border: 2px thick dotted white
+    border: 2px thick dotted blue
 }
